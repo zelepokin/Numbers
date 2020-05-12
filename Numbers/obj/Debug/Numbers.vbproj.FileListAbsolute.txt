@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Numbers\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\user\source\repos\Numbers\Numbers\bin\Debug\Numbers.exe
+C:\Users\user\source\repos\Numbers\Numbers\bin\Debug\Numbers.pdb
+C:\Users\user\source\repos\Numbers\Numbers\bin\Debug\Numbers.xml
+C:\Users\user\source\repos\Numbers\Numbers\obj\Debug\Numbers.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\Numbers\Numbers\obj\Debug\Numbers.Form1.resources
+C:\Users\user\source\repos\Numbers\Numbers\obj\Debug\Numbers.Resources.resources
+C:\Users\user\source\repos\Numbers\Numbers\obj\Debug\Numbers.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Numbers\Numbers\obj\Debug\Numbers.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Numbers\Numbers\obj\Debug\Numbers.exe
+C:\Users\user\source\repos\Numbers\Numbers\obj\Debug\Numbers.xml
+C:\Users\user\source\repos\Numbers\Numbers\obj\Debug\Numbers.pdb
